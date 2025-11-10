@@ -1,0 +1,59 @@
+
+
+Here is a step-by-step example of how to calculate Minervini's Relative Strength (RS) rating based on the description and typical method used in his approach:
+
+1. Select the time periods for return calculation: common periods are 1 month, 3 months, 6 months, and 12 months.
+
+2. Calculate the rate of change (ROC) for the stock price over each period. For example:
+   - 12-month ROC = (Current Price / Price 12 months ago) - 1
+   - 6-month ROC = (Current Price / Price 6 months ago) - 1
+   - 3-month ROC = (Current Price / Price 3 months ago) - 1
+   - 1-month ROC = (Current Price / Price 1 month ago) - 1
+
+3. Assign weights to each ROC period to emphasize more recent performance. For example:
+   - 12-month ROC weight: 1
+   - 6-month ROC weight: 2
+   - 3-month ROC weight: 3
+   - 1-month ROC weight: 4
+
+4. Calculate the weighted sum of ROCs:
+   $$
+   \text{Total ROC} = (12m\ ROC \times 1) + (6m\ ROC \times 2) + (3m\ ROC \times 3) + (1m\ ROC \times 4)
+   $$
+
+5. Calculate the Total ROC for all stocks in the universe.
+
+6. Rank all stocks by their Total ROC from highest to lowest.
+
+7. Calculate RS Rating for a stock as its percentile rank:
+   $$
+   RS\ Rating = \frac{\text{Position in ROC ranked list}}{\text{Total number of stocks}} \times 100
+   $$
+
+   This means a stock with RS Rating of 90 has outperformed 90% of the stocks.
+
+This RS Rating is used as a score from 1 to 99 indicating how strong a stock is compared to others, based on price momentum across multiple key time frames. Traders like Mark Minervini use this RS Rating along with other criteria to identify leading stocks.
+
+Example:
+
+- Assume for stock XYZ:
+  - 12-month ROC = 50%
+  - 6-month ROC = 30%
+  - 3-month ROC = 20%
+  - 1-month ROC = 10%
+
+- Weighted Total ROC:
+  $$
+  50\%\times 1 + 30\%\times 2 + 20\%\times 3 + 10\%\times 4 = 0.5 + 0.6 + 0.6 + 0.4 = 2.1
+  $$
+
+- Comparing 2.1 among all stocks, suppose it ranks 50th in a universe of 500 stocks.
+
+- RS Rating:
+  $$
+  (500 - 50 + 1) / 500 \times 100 = 90.2
+  $$
+ 
+So, XYZ has an RS Rating of about 90, meaning it outperforms roughly 90% of stocks.
+
+This stepwise method captures Minervini's RS calculation concept for stock screening and momentum analysis.
