@@ -48,6 +48,9 @@
 	    - 勇氣傳說
         - Tales of Seikyu
         - Ys VIII
+		- Live a live
+		- 聖劍傳說3
+		- 聖劍傳說 - legend of mana
 
     - 戰棋
     	- 三國戰略 (Triangle Strategy)
@@ -65,14 +68,35 @@
         - 逆轉檢視
 
     - Action
-        - 忍者龜
-        - 絕對魔權
-        - It Takes Two
         - Megaman X Collection
         - 大魔界村
         - Mobile Suit Gundam Seed: Battle Destiny Remastered
+		- The Hong Kong Massacre (香港大屠殺)
+		- 熱血三國志
+		- 熱血三國志2
+		- Diablo
+
+    - 合作 / Party
+        - It Takes Two
+        - 雙節龍
+        - 忍者龜
+        - 魂斗羅
+        - 絕對魔權
+        - 雪人兄弟
+		- Marvel Cosmic Invasion
+        - Street of rage 4
+
+        - Mario Party
+        - Overcook
+        - Move Out
+        - Tools Up
+        - Pico Park
+        - 超級雞馬
+        - 擔架拍檔 The Stretchers
+        - 太空船員 Catastronauts
 
 Old Games
 	- 黑暗龍與光之劍
 	- 紋章之迷
 	- 聖戰之系譜
+
