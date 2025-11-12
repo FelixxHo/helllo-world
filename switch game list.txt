@@ -13,6 +13,7 @@
         - Princess Peach: Showtime
         - Mario VS Donkey Kong
         - Donkey Kong Country Returns HD
+		- 前進！奇諾比奧隊長
 
     - Zelda
         - 禦天之劍
@@ -99,4 +100,5 @@ Old Games
 	- 黑暗龍與光之劍
 	- 紋章之迷
 	- 聖戰之系譜
+
 
