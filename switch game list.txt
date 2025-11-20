@@ -67,6 +67,7 @@
 	    - 蠟筆小新 煤炭鎮 (クレヨンしんちゃん『炭の町のシロ』)
         - 逆轉裁判
         - 逆轉檢視
+        - 迷宮大偵探 (Labyrinth City Pierre the Maze Detective)
 
     - Action
         - Megaman X Collection
@@ -100,5 +101,6 @@ Old Games
 	- 黑暗龍與光之劍
 	- 紋章之迷
 	- 聖戰之系譜
+
 
 
