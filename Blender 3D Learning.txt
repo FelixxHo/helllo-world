@@ -1,0 +1,63 @@
+Other 興趣Topic
+
+- Blender Hot Key (製作孤形)
+https://www.instagram.com/reel/C8ry0V-KRff/?igsh=MXBnYnB2ZTB0MDZ3dA%3D%3D
+
+- 10 Books for learning blender
+https://artisticrender.com/top-10-books-for-learning-blender/
+
+
+-------------------------------------------
+3D Learning
+
+# Low Poly Set Modeling for Video Games
+https://www.domestika.org/en/courses/568-low-poly-set-modeling-for-video-games?fbclid=PAZXh0bgNhZW0BMAABpgT--9t_ohSNgf6tEHGmGZnUnt_mRLfD_tBNNcTShgmLmpn5Ftx-6rMZGQ_aem_zdznvBigX-V35f2sQot0lQ&utm_campaign=0_WW_MIX_COURSES_NPevent_Value_PriceSticker&utm_content=campaignid_120203076443400500_adid_120203076443410500&utm_id=120203076443400500&utm_medium=cpc&utm_source=facebook.com&utm_term=120203076443430500
+
+# Digital Background Painting for Animation
+https://www.domestika.org/en/courses/1295-digital-background-painting-for-animation?fbclid=PAZXh0bgNhZW0BMAABpvh6_Mg1AdG7CKSl4zvUTX34gsZjqOunO6EmB9xvcGvoMLH-tM_QUJnCwQ_aem_zdznvBigX-V35f2sQot0lQ&utm_campaign=0_WW_MIX_COURSES_NPevent_Value_PriceSticker&utm_content=campaignid_120203076443400500_adid_120203076443410500&utm_id=120203076443400500&utm_medium=cpc&utm_source=facebook.com&utm_term=120203076443430500
+
+# Introduction to Storyboarding for Animated Films
+https://www.domestika.org/en/courses/3448-introduction-to-storyboarding-for-animated-films?fbclid=PAZXh0bgNhZW0BMAABpvdMdElgwIUJAcHwPYu19UY7k7hkZbsY6jdMzanM4reP9n4mtV_SvFTeng_aem_zdznvBigX-V35f2sQot0lQ&utm_campaign=0_WW_MIX_COURSES_NPevent_Value_PriceSticker&utm_content=campaignid_120203076443400500_adid_120203076443410500&utm_id=120203076443400500&utm_medium=cpc&utm_source=facebook.com&utm_term=120203076443430500
+
+
+*** Blender Studio (Learning Procedural Shading)
+https://studio.blender.org/training/procedural-shading/
+
+*** Blender Studio (The Daily Dweebs)(1 mins short film) (blender 2.79)
+https://www.youtube.com/watch?v=RJnKaAtBPhA				(Demo video)
+https://studio.blender.org/films/dailydweebs/
+
+*** Blender Studio (agent 327) (blender 2.79)
+https://studio.blender.org/films/agent-327/
+
+
+- FIX ON render image blur
+https://blender.stackexchange.com/questions/74126/why-are-my-rendered-images-blurry
+
+- Donald Duck modeling
+https://keelanjon.gumroad.com/l/beginners-guide-to-blender-by-keelanjon?layout=profile
+
+- Easiest Way To Create Hair in Blender - 5 Minute Tutorial
+https://www.youtube.com/watch?v=BqWYgrXw7Jk
+
+- Can Blender 2.79 still run on RTX 4070 - 4090 still today?
+https://blenderartists.org/t/can-blender-2-79-still-run-on-rtx-4070-4090-still-today/1526670
+
+
+- Blender (Procedual Material) by Reynante Martinez - Cycles Material Vault
+https://www.youtube.com/@ReynanteMartinez
+
+
+- Blender Artist to Learn
+https://starkosha.gumroad.com/l/vtfsb
+
+https://www.youtube.com/@KseniaStarkova
+
+- ZACK3D｜角色創藝學院
+https://course.zack3d.art/courses/noviceclass
+
+- 3D Fox Character Modeling
+https://www.youtube.com/watch?v=aMRRNC1J6tU
+
+- Modeling Character For Animation in Blender 3D Complete Process
+https://www.youtube.com/watch?v=unvw1jbmeDw
