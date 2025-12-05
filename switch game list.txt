@@ -1,3 +1,5 @@
+(Sync to Excel)
+
 - 想玩的Switch Game
     - Mario
 	    - Super Mario Odyssey
@@ -101,6 +103,7 @@ Old Games
 	- 黑暗龍與光之劍
 	- 紋章之迷
 	- 聖戰之系譜
+
 
 
 
